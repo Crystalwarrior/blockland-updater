@@ -1,24 +1,24 @@
-<version:1.0.4>
+<version:1.0.4-1>
 	<ul>
 		<li>Added Support_Updater support for the gamemode.</li>
 	</ul>
 </version>
-<version:1.0.3>
+<version:1.0.3-1>
 	<ul>
 		<li>Included daycycles in the package, better bloody footprints and various other tweaks and bugfixes</li>
 	</ul>
 </version>
-<version:1.0.2>
+<version:1.0.2-1>
 	<ul>
 		<li>Improves bullet picking up by using a radius check alongside a raycast. Now you'll be able to pick up more than one bullet at once!</li>
 	</ul>
 </version>
-<version:1.0.1>
+<version:1.0.1-1>
 	<ul>
 		<li>Adds /adminhelp and /adminpm functions. /adminhelp message functions as a report, while /adminpm client message sends a message to the client.</li>
 	</ul>
 </version>
-<version:1.0.0>
+<version:1.0.0-1>
 	<ul>
 		<li>First release version!</li>
 		<ul>
