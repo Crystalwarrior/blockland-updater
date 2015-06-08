@@ -1,0 +1,34 @@
+<version:1.0.4>
+	<ul>
+		<li>Added Support_Updater support for the gamemode.</li>
+	</ul>
+</version>
+<version:1.0.3>
+	<ul>
+		<li>Included daycycles in the package, better bloody footprints and various other tweaks and bugfixes</li>
+	</ul>
+</version>
+<version:1.0.2>
+	<ul>
+		<li>Improves bullet picking up by using a radius check alongside a raycast. Now you'll be able to pick up more than one bullet at once!</li>
+	</ul>
+</version>
+<version:1.0.1>
+	<ul>
+		<li>Adds /adminhelp and /adminpm functions. /adminhelp message functions as a report, while /adminpm client message sends a message to the client.</li>
+	</ul>
+</version>
+<version:1.0.0>
+	<ul>
+		<li>First release version!</li>
+		<ul>
+			<li>Ambience on the default Pyramid map</li>
+			<li>Footstep sounds</li>
+			<li>SMM Blood packaged in the gamemode</li>
+			<li>Complex Revolver with robust Chamber/Chambered Bullets and ammo system. <a:youtu.be/6E4J5aZzDvI>(Video Tutorial)</a></li>
+			<li>/rules 8 is a text-based explanation of the revolver gun. Direct your players to that rule so they know how to handle a gun.</li>
+			<li>Forensics investigation that includes you scanning people for DNA, then comparing that DNA with the blood you scan</li>
+			<li>One in the Chamber gametype! Set it with /setgametype 1. This makes all players in the round start with one bullet they can insert and they'd receive more bullets every morning. Mafia members get bullets every night and morning so they have an advantage. Warning: can cause rounds to last much longer than they should.</li>
+		</ul>
+	</ul>
+</version>
