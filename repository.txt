@@ -1,7 +1,7 @@
 <repository>
 	<addon:GameMode_Mafia_Madness_Plus>
 		<channel:release>
-			<version:1.0.4-1>
+			<version:1.0.5>
 			<file:http://crystalwarrior.github.io/GameMode_Mafia_Madness_Plus.zip>
 			<changelog:http://crystalwarrior.github.io/changelog.txt>
 			<desc:Famous Murder Mystery Gamemode, now with Receiver-like revolver>
