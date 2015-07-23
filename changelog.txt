@@ -1,3 +1,8 @@
+<version:1.0.6>
+	<ul>
+		<li>Fixed an issue with missing Script_Blood - removed it from gamemode.txt.</li>
+	</ul>
+</version>
 <version:1.0.5>
 	<ul>
 		<li>Fixed support_updater support.</li>
